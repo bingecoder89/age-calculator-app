@@ -15,7 +15,7 @@ Hey! I've built a Age Calculator App using HTML, CSS & Javascript.
 
 # My Learnings
 1. CSS background properties, media queries, responsive design
-2. Javascript DOM Manipulation, Event Handling
+2. Javascript DOM Manipulation, Event Handling, Date object.
 3. git and github
 
 # Minimum Requirements to start project
